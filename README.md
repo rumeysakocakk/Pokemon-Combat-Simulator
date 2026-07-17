@@ -1,4 +1,4 @@
-# Pokémon Combat Simulator
+# Pokemon Combat Simulator
 
 ## Overview
 
